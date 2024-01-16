@@ -1,2 +1,1 @@
-Please select a PR template to use:
-* [Standard](?expand=1&template=standard.md)
+asda5s1d6a1sd654a1s6d56
